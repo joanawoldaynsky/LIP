@@ -1,0 +1,19 @@
+body{width: 100%;}
+h2{font-size: xx-large;font-weight: bolder;}
+.cabecalho{background-color: #c291b2;}
+.txbv{font-size: x-large;}
+.section {padding-top: 5rem;padding-bottom: 5rem;}
+.lnr {display: inline-block;fill: #c291b2;width: 1em;height: 1em;vertical-align: -0.05em;stroke-width: 1;} 
+.services-icon {margin-bottom: 20px;font-size: 30px;}
+bgc2, .vLine, .hLine {color: #c291b2;}
+.quote-icon {font-size: 40px;margin-bottom: 20px;}
+.services-icon {font-size: 60px;margin-left: 2rem;}
+.footer{text-align: center;}
+.foto {margin-bottom: 100px;align-items: center;display: block;margin: 0 auto;}
+.eu{height: 500px; align-items: center;}
+.sobre{background-color: #c291b2;}
+.iconess{padding: 20px; margin-top: 50px;fill: #c291b2;}
+.inicio{margin-top: 50px;}
+.jogo{margin-top: 30px;}
+.arduino{margin-top: 30px;}
+.sitediw{width: 1024px;height: 100%; margin-top: 100px;}
